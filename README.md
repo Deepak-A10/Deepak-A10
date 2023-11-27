@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Deepak A
 - 👀 I’m interested in Front end Web development
 - 🌱 I’m currently learning Html,Css,Javascript 
+- 👨‍🎓 I'm currently pursuing Btech CSBS in RMKEC'27
 
 
 <!---
